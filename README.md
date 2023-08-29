@@ -1,10 +1,9 @@
-# METANET-analysis
+# EarlyPredictorGliomaEvolution
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8046787.svg)](https://doi.org/10.5281/zenodo.8046787)
+## Overview
 
-## Introduction
+This is the custom code for the analysis presented in the manuscript "**Tracing early predictors of glioma evolution under therapy**", which is currently under review. In this study we aimed to identify early predictors of glioma evolution by learning from longitudinally sampled glioma pairs.
 
-This is the custom code for the analysis to identify early predictors of glioma evolution by learning from longitudinally sampled glioma pairs.
 
 ## Analysis contributors
 [Wang Lab at HKUST](http://wang-lab.ust.hk/)
@@ -17,7 +16,7 @@ Each folder correspond to one part of the analysis. For example, *PreprocessingD
 ## Software and package versions
 
 FastQC v0.11.5, fastp v0.20.1, BWA v0.7.15-r1140, samtools 1.2, picard MarkDuplicates 2.9.2, CNVkit 0.9.546,
-SAVI 2.0, CELLO 1.0, STAR 2.6.1d, featureCounts 1.5.1, STAR-Fusion 1.5.0, R 3.6.3, ComplexHeatmap 1.2.0,
+SAVI 2.0, CELLO 1.0, STAR 2.6.1d, featureCounts 1.5.1, STAR-Fusion 1.5.0, R 3.6.3, ComplexHeatmap 1.2.0, 
 survival 2.44-1.1, ggplot2 3.2.1, survminer 0.4.6, ape 5.4-1, xgboost1.2.0.1, SHAPforxgboost 0.0.4,  DEseq 1.26.0, fgsea 1.12.0
 
 
