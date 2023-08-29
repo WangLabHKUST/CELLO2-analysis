@@ -1,11 +1,16 @@
-setwd('~/Dropbox/2020-PanGliomaEvolution/Figures/Figure_1/')
+#change working directory
+library(rstudioapi)
+present_folder = dirname(rstudioapi::getActiveDocumentContext()$path)
+setwd(present_folder)
+print(getwd())
+
 options(stringsAsFactors = F)
 
-ini = read.delim('~/Dropbox/2020-PanGliomaEvolution/clinicalmutationCNAs/Pairedgliomas.genomics_initial_20220204.txt', na.strings = c('NA','#N/A'))
-rec = read.delim('~/Dropbox/2020-PanGliomaEvolution/clinicalmutationCNAs/Pairedgliomas.genomics_recurrence_20220204.txt', na.strings = c('NA','#N/A'))
+ini = read.delim('Pairedgliomas.genomics_initial.txt', na.strings = c('NA','#N/A'))
+rec = read.delim('Pairedgliomas.genomics_recurrence.txt', na.strings = c('NA','#N/A'))
 stopifnot(identical(ini$Patient_ID, rec$Patient_ID))
 
-c710 = read.delim('~/Downloads/panglioma.chr710.new.tsv')
+c710 = read.delim('panglioma.chr710.tsv')
 ini$chr7gain10loss = c710$new_chr710_ini[match(ini$Patient_ID, c710$Patient_ID)]
 rec$chr7gain10loss = c710$new_chr710_rec[match(rec$Patient_ID, c710$Patient_ID)]
 # #only show East Asian
@@ -49,7 +54,7 @@ for (i in 1:nrow(p1m)){
 # ini$Grade2021_Rec = as.numeric(substr(ini$WHO2021Classification_recurrence,
 #                                       start = nchar(ini$WHO2021Classification_recurrence),
 #                                       stop = nchar(ini$WHO2021Classification_recurrence)))
-grd21new = read.delim('~/Dropbox/2020-PanGliomaEvolution/Figures/Figure_1/pairedGlioma.who2021grade.txt')
+grd21new = read.delim('pairedGlioma.who2021grade.txt')
 ini$Grade2021_Ini =grd21new$grade2021_ini[match(ini$Patient_ID, grd21new$Patient_ID)]
 ini$Grade2021_Rec =grd21new$grade2021_rec[match(ini$Patient_ID, grd21new$Patient_ID)]
 
@@ -123,7 +128,7 @@ pxi = ifelse(npatient >200,1,0.85) #width of each cell. max 1, <1 values will le
 pxj = ifelse(nfeature >50,1,0.9) #height of each cell. max 1, <1 values will lead to small gaps between row. recommend to use 0.9 when number of features <50, and 1 if >50
 
 gapri = max(1,as.integer(0.01*npatient)) #gap width in row, i.e.e the gap between different subtypes
-pdf('landscape_20220616.pdf',width = 8.5, height = 6.5)
+pdf('FigS1D_landscape.pdf',width = 9.5, height = 6.5)
 plot(-npatient, -nfeature,  xlim = c(-(npatient + 2*gapri +10),0), ylim = c(-nfeature,0), type = "n",  bty = "n",xaxt = "n", yaxt = "n",  ann=FALSE,frame.plot = T,yaxs="i") #+2 for spaces, +10 for labels
 #idx = which(rownames(p1a)%in%c("PS157","PS137","PS146","PS138","PS135","PS143","PS140","PS132"))
 #par(las=2);axis(side = 1, at = -(npatient+2*gapri)+idx,labels = rownames(p1a)[idx] )
@@ -400,23 +405,6 @@ library(alluvial)
 library(dplyr)
 f = data.frame(Initial = p1a$Grade21_I, Recurrence = p1a$Grade21_R, Subtype = p1a$Subtype)
 f %>% group_by(Subtype,Initial, Recurrence) %>% summarise(n = n()) ->dt
-dt
-dt = dt[!(is.na(dt$Initial)|is.na(dt$Recurrence)),]
-dt$prog = ifelse(dt$Recurrence==4,'yes','no')
-dt$prog[which(dt$Subtype=='IDHcodel' & dt$Initial==2 & dt$Recurrence==3)] = 'yes'
-#"IDHwt","#107050", ifelse(p1a$Subtype[i] == "IDHcodel","#c7d34d","#55d9c0"
-alluvial(dt[,1:3], freq=dt$n,gap.width = .5,
-         #col = ifelse(dt$Recurrence == 2, "#c6dbef",ifelse(dt$Recurrence== 3, "#6baed6","#2171b5")),
-         #col = ifelse( dt$prog=='yes', "#010078", "#fed976" ),
-         col = ifelse(dt$Subtype=="IDHwt","#107050", ifelse(dt$Subtype== "IDHcodel","#c7d34d","#55d9c0")),
-         border = NA,alpha=0.75,hide = dt$n<2,
-         # ordering = list(
-         #   #order(dt$Grade_I,dt$Grade_R,decreasing = T),
-         #   NULL,NULL,
-         #   NULL,NULL
-         #   #order(dt$Grade_I,dt$Grade_R, decreasing = T)
-         # ),
-         blocks = T,cex = 0.6,cw = 0.2, cex.axis = 0.6)
 
 ini$HM_I[which(ini$HM_I=='NO')] = "No"
 f = data.frame(Initial = ini$HM_I, Recurrence = ini$HM_R)

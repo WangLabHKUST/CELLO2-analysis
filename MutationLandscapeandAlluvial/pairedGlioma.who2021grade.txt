@@ -1,0 +1,512 @@
+Patient_ID	WHO2021_grade_initial 20220615	WHO 2021 Classification_recurrence 20220615	grade2021_ini	grade2021_rec
+PS001	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS002	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS003	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS004	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS005	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS006	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS007	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS008	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS009	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS010	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS011	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS012	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS013	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS014	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS015	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS016	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS017	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS018	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS019	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS020	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS021	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS022	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS023	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS024	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS025	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS026	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS027	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS028	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS029	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS030	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS031	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS032	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS033	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS034	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS035	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS036	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS037	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS038	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS039	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS040	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS041	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS042	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS043	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS044	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS045	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS046	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS047	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS048	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS049	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS050	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS051	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS052	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS053	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS054	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS055	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS056	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS057	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS058	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS060	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS061	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS062	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS063	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS064	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS065	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS066	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS067	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS068	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS069	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS070	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS071	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS072	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS073	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS074	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS075	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS076	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS078	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS079	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS080	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS081	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS082	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS083	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS084	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS085	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS087	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS088	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS089	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS090	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS092	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS093	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS094	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS095	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS096	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS097	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS098	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS099	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS100	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS101	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS102	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS103	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS104	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS105	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS106	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS107	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS108	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS109	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS110	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS111	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS112	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS113	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS114	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS115	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS116	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS117	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS118	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS119	NOS	NOS	NA	NA
+PS120	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS121	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS122	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS123	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS124	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS125	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS126	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS127	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS128	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS129	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS130	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS131	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS132	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS133	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS134	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 3	4	3
+PS135	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS136	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS137	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS138	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS139	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS140	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS141	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS142	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS143	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS144	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS145	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS146	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PS147	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS148	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS149	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS150	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS151	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS152	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS153	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS154	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS155	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS156	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS157	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS158	NOS	NOS	NA	NA
+PS159	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS160	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS161	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS162	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS163	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS164	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS165	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS166	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS167	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS168	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS169	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS170	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS171	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS172	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS173	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS174	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS175	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS176	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS177	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS178	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS179	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS180	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS181	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS182	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS184	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS185	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS186	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS187	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS188	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS189	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS190	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS191	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS192	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS193	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS194	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS195	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS196	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS197	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS198	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS199	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS200	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS201	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS202	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS203	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS204	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS205	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS206	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS208	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS209	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS210	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS211	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS212	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS213	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS214	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS215	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS216	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS217	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS218	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS219	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS220	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS221	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS222	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS223	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS224	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS225	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS226	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS227	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS228	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS229	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS230	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS231	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS232	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS233	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS234	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS235	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS236	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS237	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS238	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS239	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS240	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS241	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS242	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS243	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS244	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS245	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS246	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS247	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS248	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS249	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS250	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS251	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS252	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS253	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS254	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS255	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS256	NOS	NOS	NA	NA
+PS257	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS258	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS259	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS260	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS261	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS262	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS263	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS264	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS265	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS266	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS267	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS268	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS269	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS270	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS271	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS272	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS273	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS274	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS275	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS276	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS277	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS278	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS279	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS280	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS281	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS282	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS284	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS285	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS286	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS287	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS288	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS289	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS291	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS293	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS294	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS295	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS296	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS297	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS298	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS299	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS300	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS301	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS302	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS303	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS304	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS305	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS306	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS307	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS308	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS309	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS310	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS311	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS312	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS313	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS314	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS315	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS316	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS317	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS318	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS319	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS320	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS321	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS322	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS323	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS324	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS325	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS326	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS327	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS328	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS329	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS330	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS331	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS332	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS333	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS334	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS335	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS336	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS337	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS338	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS339	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS340	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS341	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS342	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS343	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS344	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS345	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS346	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS347	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS348	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS349	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS350	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS351	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS352	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS353	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS354	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS355	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS356	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS357	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS358	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	3	2
+PS359	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS360	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS365	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS366	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS367	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS368	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS369	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS370	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS371	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS372	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS373	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS374	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS375	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS376	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS377	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS378	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS379	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS380	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS381	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS382	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS383	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS384	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS385	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS386	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS387	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS388	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS389	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS390	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS391	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS392	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS393	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS394	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS395	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS396	Glioblastoma, IDHwt, grade 4	NOS	4	NA
+PS397	Glioblastoma, IDHwt, grade 4	NOS	4	NA
+PS398	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS399	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS400	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PS401	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS402	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS403	NOS	NOS	NA	NA
+PS404	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS405	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS406	Glioblastoma, IDHwt, grade 4	NOS	4	NA
+PS407	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS408	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS409	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS410	NOS	NOS	NA	NA
+PS411	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS412	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS413	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS414	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS415	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PS416	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS417	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS418	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS419	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS420	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS421	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS422	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS423	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS424	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS425	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS426	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS427	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS428	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS429	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS430	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS431	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS432	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS433	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PS434	Astrocytoma, IDH-mutant, grade 4	NOS	4	NA
+PS435	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS436	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS437	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS438	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS439	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS440	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS441	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS442	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS443	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS444	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS445	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS446	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS447	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS448	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS449	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS450	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS451	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS452	NOS	NOS	NA	NA
+PS453	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS454	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS455	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS456	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS457	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS458	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS459	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS460	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS461	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS462	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS463	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS464	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS465	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	3	3
+PS466	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS467	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS468	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS469	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS470	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS471	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS472	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS473	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS474	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 4	3	4
+PS475	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PS476	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS477	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS478	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS479	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS480	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS481	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS482	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS483	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PS484	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS485	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS486	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS487	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS488	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS489	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS490	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS491	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS492	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS493	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS494	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS495	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS496	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PS497	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS498	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS499	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PS500	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 2	2	2
+PS501	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PS502	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PS503	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 3	2	3
+PS504	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 2	4	2
+PSX01	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PSX02	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PSX03	Astrocytoma, IDH-mutant, grade 3	Astrocytoma, IDH-mutant, grade 3	3	3
+PSX04	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PSX05	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PSX06	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX07	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX08	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PSX09	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	2	2
+PSX10	Astrocytoma, IDH-mutant, grade 2	Astrocytoma, IDH-mutant, grade 4	2	4
+PSX11	NOS	Glioblastoma, IDHwt, grade 4	NA	4
+PSX12	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX13	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 2	Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted, grade 3	2	3
+PSX14	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX15	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX16	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PSX17	Astrocytoma, IDH-mutant, grade 4	Astrocytoma, IDH-mutant, grade 4	4	4
+PSX18	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PSX19	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
+PSX20	Glioblastoma, IDHwt, grade 4	Glioblastoma, IDHwt, grade 4	4	4
