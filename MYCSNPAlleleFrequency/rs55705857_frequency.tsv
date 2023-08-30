@@ -1,0 +1,38 @@
+Study	Population	Group	Samplesize	Ref Allele	AF	Alt Allele	AF2	BioProject ID	BioSample ID
+ChinaMAP	East Asian	Sub	21152	A	0.998676248	G	0.001323752
+TopMed	Global	Study-wide	264690	A	0.969632	G	0.030368	PRJNA400167
+gnomAD - Genomes	Global	Study-wide	140248	A	0.960905	G	0.039095	PRJNA398795	SAMN07488253
+gnomAD - Genomes	European	Sub	75926	A	0.93864	G	0.06136		SAMN10181265
+gnomAD - Genomes	African	Sub	42058	A	0.98999	G	0.01001		SAMN07488254
+gnomAD - Genomes	American	Sub	13668	A	0.97929	G	0.02071		SAMN07488255
+gnomAD - Genomes	Ashkenazi Jewish	Sub	3324	A	0.9859	G	0.0141		SAMN07488252
+gnomAD - Genomes	East Asian	Sub	3120	A	0.9987	G	0.0013		SAMN07488251
+gnomAD - Genomes	Other	Sub	2152	A	0.9679	G	0.0321		SAMN07488248
+Allele Frequency Aggregator	Total	Global	30964	A	0.95152	G	0.04848	PRJNA507278	SAMN10492705
+Allele Frequency Aggregator	European	Sub	24812	A	0.94458	G	0.05542		SAMN10492695
+Allele Frequency Aggregator	African	Sub	3172	A	0.9883	G	0.0117		SAMN10492703
+Allele Frequency Aggregator	Other	Sub	1866	A	0.9657	G	0.0343		SAMN11605645
+Allele Frequency Aggregator	Latin American 2	Sub	700	A	0.973	G	0.027		SAMN10492700
+Allele Frequency Aggregator	Latin American 1	Sub	168	A	0.982	G	0.018		SAMN10492699
+Allele Frequency Aggregator	Asian	Sub	130	A	1	G	0		SAMN10492704
+Allele Frequency Aggregator	South Asian	Sub	116	A	0.974	G	0.026		SAMN10492702
+8.3KJPN	JAPANESE	Study-wide	16748	A	0.99982	G	0.00018	PRJNA678214	SAMN16789458
+1000Genomes	Global	Study-wide	5008	A	0.9818	G	0.0182	PRJEB6930	SAMN07490465
+1000Genomes	African	Sub	1322	A	0.9992	G	0.0008		SAMN07486022
+1000Genomes	East Asian	Sub	1008	A	1	G	0		SAMN07486024
+1000Genomes	Europe	Sub	1006	A	0.9433	G	0.0567		SAMN07488239
+1000Genomes	South Asian	Sub	978	A	0.978	G	0.022		SAMN07486027
+1000Genomes	American	Sub	694	A	0.984	G	0.016		SAMN07488242
+Genetic variation in the Estonian population	Estonian	Study-wide	4480	A	0.9446	G	0.0554	PRJNA489787
+The Avon Longitudinal Study of Parents and Children	PARENT AND CHILD COHORT	Study-wide	3854	A	0.9434	G	0.0566	PRJEB7217
+UK 10K study - Twins	TWIN COHORT	Study-wide	3708	A	0.945	G	0.055	PRJEB7218
+KOREAN population from KRGDB	KOREAN	Study-wide	2922	A	0.9993	G	0.0007	PRJNA589833
+Korean Genome Project	KOREAN	Study-wide	1832	A	0.9989	G	0.0011	PRJNA609628
+Genome of the Netherlands Release 5	Genome of the Netherlands	Study-wide	998	A	0.952	G	0.048	PRJEB5829	SAMN13000132
+CNV burdens in cranial meningiomas	Global	Study-wide	788	A	0.997	G	0.003	PRJEB37584	SAMN15458720
+CNV burdens in cranial meningiomas	CRM	Sub	788	A	0.997	G	0.003		SAMN15458720
+Northern Sweden	ACPOP	Study-wide	600	A	0.935	G	0.065	PPRJNA503394	SAMN10359154
+Qatari	Global	Study-wide	216	A	0.981	G	0.019	PRJNA288297	SAMN13019808
+The Danish reference pan genome	Danish	Study-wide	40	A	0.97	G	0.03	PRJEB7725	SAMN13003120
+SGDP_PRJ	Global	Study-wide	16	A	0.5	G	0.5	PRJNA586841
+Siberian	Global	Study-wide	10	A	0.5	G	0.5	PRJNA267856	SAMN13113809
