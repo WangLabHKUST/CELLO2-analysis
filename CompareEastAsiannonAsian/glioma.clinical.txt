@@ -1,0 +1,512 @@
+Patient_ID	Alternative_ID	Cohorts	Molecular pathology (per GLASS)	Grade_1	Grade_2	disease_progression	Age	Gender	Race	TMZ_R	OS(month)	Censor_OS (0 alive/1 dead)	Surgerical_interval(month)
+PS001	R001	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	70	M	non-Asian	1	7	1	5
+PS002	R002	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	42	M	non-Asian	1	18	1	10
+PS003	R003	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	non-Asian	1	17	1	9
+PS004	R004	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	50	F	non-Asian	1	27	1	6
+PS005	R005	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	58	F	non-Asian	1	13	1	5
+PS006	R006	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	59	M	non-Asian	1	18	1	11
+PS007	R007	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	69	M	non-Asian	1	21	1	12
+PS008	R008	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	46	F	non-Asian	1	15	1	10
+PS009	R009	INCB	Glioblastoma, IDH-mutant	IV	IV	No	67	F	non-Asian	1	46	1	40
+PS010	R010	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	50	M	non-Asian	1	23	1	17
+PS011	R011	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	non-Asian	1	18	1	12
+PS012	R012	INCB	Glioblastoma, IDH-mutant	IV	IV	No	49	M	non-Asian	1	45	1	32
+PS013	R013	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	67	F	non-Asian	1	25	1	12
+PS014	R014	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	57	M	non-Asian	1	9	1	8
+PS015	R015	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	non-Asian	1	19	1	15
+PS016	R016	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	61	M	non-Asian	1	18	1	16
+PS017	R017	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	33	F	non-Asian	1	30	1	6
+PS018	R018	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	52	M	non-Asian	1	25	1	18
+PS019	R019	INCB	Glioblastoma, IDH-wildtype	IV	IV	No	48	M	non-Asian	1	18	1	9
+PS020	R020	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	non-Asian	1	41	1	33
+PS021	R021	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	45	F	non-Asian	1	13	1	11
+PS022	R022	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	35	F	non-Asian	1	142	1	10
+PS023	R023	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	64	M	non-Asian	1	19	1	12
+PS024	R024	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	46	M	non-Asian	1	17	1	7
+PS025	R025	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	67	F	non-Asian	1	4	1	1
+PS026	R026	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	64	M	non-Asian	1	19	1	16
+PS027	R027	MD Anderson	Glioblastoma, IDH-mutant	IV	IV	No	62	F	non-Asian	1	39	1	8
+PS028	R028	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	non-Asian	1	13	1	6
+PS029	R029	MD Anderson	Glioblastoma, IDH-wildtype	IV	IV	No	52	M	non-Asian	1	17	1	8
+PS030	R030	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	64	F	non-Asian	1	48	1	27
+PS031	R031	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	68	M	non-Asian	0	12	1	6
+PS032	R032	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	66	M	non-Asian	1	13	1	4
+PS033	R033	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	63	M	non-Asian	1	11	1	7
+PS034	R034	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	73	F	non-Asian	0	8	1	2
+PS035	R035	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	48	M	non-Asian	0	12	1	2
+PS036	R036	TCGA-GBM	Glioblastoma, IDH-mutant	IV	IV	No	31	M	non-Asian	0	20	1	9
+PS037	R037	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	50	M	non-Asian	0	15	1	7
+PS038	R038	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	60	F	non-Asian	0	16	1	15
+PS039	R039	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	59	F	non-Asian	1	32	1	29
+PS040	R040	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	49	F	non-Asian	1	22	1	14
+PS041	R041	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	non-Asian	1	5	1	3
+PS042	R042	TCGA-GBM	Glioblastoma, IDH-wildtype	IV	IV	No	36	M	non-Asian	1	14	1	2
+PS043	R043	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	28	M	non-Asian	1	58	1	31
+PS044	R044	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	39	F	non-Asian	1	74	1	56
+PS045	R045	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	44	M	non-Asian	0	103	1	40
+PS046	R046	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	28	M	non-Asian	0	45	1	35
+PS047	R047	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	41	F	non-Asian	1	44	1	25
+PS048	R048	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	27	M	non-Asian	1	59	0	30
+PS049	R049	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	49	M	non-Asian	1	106	0	94
+PS050	R050	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	27	M	non-Asian	1	35	1	21
+PS051	R051	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	34	M	Asian	1	109	1	102
+PS052	R052	UCSF	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	39	M	Asian	0	42	0	14
+PS053	R053	Suzuki	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	31	M	Asian	0	45	0	45
+PS054	R054	Suzuki	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	23	M	Asian	1	38	0	38
+PS055	R055	Suzuki	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	48	F	Asian	1	38	0	38
+PS056	R056	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	42	F	Asian	1	61	0	24
+PS057	R057	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	Asian	1	58	1	9
+PS058	R058	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	70	F	Asian	1	53	0	37
+PS060	R060	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	32	M	Asian	1	39	0	14
+PS061	R061	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	48	M	Asian	1	35	1	2
+PS062	R062	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	24	M	Asian	1	34	0	27
+PS063	R063	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	34	F	Asian	1	33	0	30
+PS064	R064	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	56	F	Asian	1	42	0	9
+PS065	R065	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	38	F	Asian	1	26	1	15
+PS066	R066	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	Asian	1	23	0	14
+PS067	R067	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	Asian	1	22	1	7
+PS068	R068	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	74	M	Asian	1	19	1	16
+PS069	R069	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	46	F	Asian	1	18	1	10
+PS070	R070	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	72	F	Asian	1	17	0	7
+PS071	R071	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	65	M	Asian	1	16	1	11
+PS072	R072	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	74	M	Asian	1	14	1	5
+PS073	R073	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	66	M	Asian	1	13	1	12
+PS074	R074	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	41	M	Asian	1	12	1	7
+PS075	R075	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	52	M	Asian	1	7	1	6
+PS076	R076	SMC_old	Glioblastoma, IDH-mutant	IV	IV	No	40	M	Asian	1	58	1	3
+PS078	R078	SMC_old	Glioblastoma, IDH-mutant	IV	IV	No	39	M	Asian	1	81	1	29
+PS079	R079	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	Asian	1	40	0	19
+PS080	R080	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	60	M	Asian	1	33	1	20
+PS081	R081	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	58	F	Asian	1	17	1	7
+PS082	R082	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	Asian	1	11	0	3
+PS083	R083	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	50	M	Asian	1	34	1	16
+PS084	R084	SMC_old	Glioblastoma, IDH-mutant	IV	IV	No	43	F	Asian	1	33	1	21
+PS085	R085	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	Asian	1	32	1	13
+PS087	R087	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	37	F	Asian	1	27	0	18
+PS088	R088	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	32	F	Asian	1	25	1	12
+PS089	R089	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	41	M	Asian	1	15	1	3
+PS090	R090	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	44	M	Asian	1	13	1	5
+PS092	R092	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	47	F	Asian	1	11	1	6
+PS093	R093	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	73	M	Asian	1	8	0	7
+PS094	R094	SMC_old	Glioblastoma, IDH-mutant	IV	IV	No	50	M	Asian	1	19	0	9
+PS095	R095	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	61	F	Asian	1	20	0	9
+PS096	R096	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	Asian	1	30	0	2
+PS097	R097	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	61	F	Asian	1	24	0	17
+PS098	R098	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	Asian	0	21	0	3
+PS099	R099	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	57	F	Asian	1	19	0	3
+PS100	R100	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	45	M	Asian	1	18	1	5
+PS101	R101	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	63	F	Asian	1	14	1	3
+PS102	R102	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	69	M	Asian	1	16	1	10
+PS103	R103	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	55	F	Asian	1	19	1	3
+PS104	R104	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	54	M	Asian	1	28	0	11
+PS105	R105	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	55	F	Asian	1	24	0	13
+PS106	R106	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	Asian	1	13	1	10
+PS107	R107	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	52	F	Asian	1	16	0	7
+PS108	R108	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	56	F	Asian	1	9	0	5
+PS109	R109	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	F	Asian	1	19	1	12
+PS110	R110	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	Asian	0	8	0	2
+PS111	R111	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	31	M	Asian	0	14	1	6
+PS112	R112	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	70	F	Asian	0	10	1	1
+PS113	R113	SMC_old	Glioblastoma, IDH-wildtype	IV	IV	No	51	F	Asian	1	18	1	3
+PS114	R114	SMC_old	Glioblastoma, IDH-mutant	IV	IV	No	45	F	Asian	1	75	0	9
+PS115	T01	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	30	M	Asian	1	78	1	50
+PS116	T02	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	59	M	Asian	1	94	1	77
+PS117	T03	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	37	M	Asian	1	14	1	8
+PS118	T04	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	49	M	Asian	1	50	1	47
+PS119	T05	Tiantan	Diffuse Astrocytoma, IDH-wildtype	II	II	No	44	F	Asian	1	130	0	36
+PS120	T06	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	34	F	Asian	1	49	1	40
+PS121	T07	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	35	M	Asian	1	19	1	10
+PS122	T08	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	Asian	1	16	1	11
+PS123	T09	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	60	M	Asian	1	27	1	20
+PS124	T10	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	33	M	Asian	0	27	1	12
+PS125	T11	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	37	F	Asian	1	20	1	18
+PS126	T12	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	48	F	Asian	1	88	1	80
+PS127	T13	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	45	F	Asian	1	88	1	62
+PS128	T14	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	46	M	Asian	1	140	1	88
+PS129	T15	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	46	M	Asian	1	83	1	73
+PS130	T16	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	31	M	Asian	1	18	1	12
+PS131	T17	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	24	M	Asian	1	67	1	24
+PS132	T18	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	43	F	Asian	1	58	1	47
+PS133	T19	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	38	M	Asian	1	60	1	28
+PS134	T20	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	30	F	Asian	1	63	1	26
+PS135	T21	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	Asian	1	34	1	23
+PS136	T22	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	54	M	Asian	0	80	1	22
+PS137	T23	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	44	F	Asian	1	23	1	16
+PS138	T24	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	29	F	Asian	1	28	1	22
+PS139	T25	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	37	M	Asian	1	100	1	NA
+PS140	T26	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	47	F	Asian	1	41	1	14
+PS141	T27	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	46	M	Asian	1	94	1	NA
+PS142	T28	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	41	F	Asian	NA	29	1	NA
+PS143	T29	Tiantan	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	56	M	Asian	1	50	1	12
+PS144	T30	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	32	M	Asian	1	59	1	29
+PS145	T31	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	36	M	Asian	1	114	1	NA
+PS146	T32	Tiantan	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	29	F	Asian	1	16	1	14
+PS147	T33	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	63	M	Asian	1	123	1	NA
+PS148	T34	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	41	M	Asian	1	85	1	NA
+PS149	T35	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	46	M	Asian	1	54	1	37
+PS150	T36	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	51	M	Asian	1	84	1	NA
+PS151	T37	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	27	M	Asian	1	37	1	25
+PS152	T38	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	38	M	Asian	1	43	1	38
+PS153	T39	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	44	M	Asian	1	87	1	55
+PS154	T40	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	43	M	Asian	1	165	0	26
+PS155	T41	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	51	F	Asian	NA	34	1	18
+PS156	T42	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	52	M	Asian	1	42	1	11
+PS157	T43	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	38	M	Asian	1	45	1	11
+PS158	T44	Tiantan	Anaplastic Astrocytoma, IDH-wildtype	III	III	No	51	F	Asian	1	78.23333333	1	15.63
+PS159	T45	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	II	No	25	M	Asian	NA	110.5	0	39.63
+PS160	T46	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	61	F	Asian	1	18.9	1	8.4
+PS161	T47	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	50	F	Asian	1	20.13333333	1	18.93
+PS162	T48	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	46	M	Asian	1	12.7	1	7.17
+PS163	T49	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	45	F	Asian	1	13.36666667	1	7.2
+PS164	T50	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	40	M	Asian	1	26.83333333	1	11.93
+PS165	T51	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	49	F	Asian	NA	16.66666667	1	12.6
+PS166	T52	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	43	M	Asian	1	68.9	1	52.3
+PS167	T53	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	54	M	Asian	1	242.5	1	46.47
+PS168	T54	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	65	F	Asian	1	43.26666667	1	17.87
+PS169	T55	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	20	M	Asian	1	51.13333333	1	32.77
+PS170	T56	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	50	M	Asian	1	79.1	1	61.73
+PS171	T57	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	42	M	Asian	1	15.66666667	1	11.93
+PS172	T58	Tiantan	Anaplastic Astrocytoma, IDH-mutant	III	III	No	39	F	Asian	1	51.1	1	19.87
+PS173	T59	Tiantan	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	IV	Yes	38	M	Asian	0	42.16666667	1	38.47
+PS174	T60	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	45	F	Asian	1	13.8	1	10.83
+PS175	T61	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	24	M	Asian	1	32.96666667	1	6.27
+PS176	T62	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	55	M	Asian	1	15.33333333	1	10.73
+PS177	T63	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	33	F	Asian	1	39.63333333	1	NA
+PS178	T64	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	26	M	Asian	1	28.66666667	1	17
+PS179	T65	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	60	M	Asian	1	23.13333333	1	17.93
+PS180	T66	Tiantan	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	34	M	Asian	1	98.3	0	50.9
+PS181	T67	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	15	M	Asian	1	62.53333333	0	22.23
+PS182	T68	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	38	M	Asian	1	19.86666667	1	15.23
+PS184	T70	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	59	M	Asian	1	142.6	0	112
+PS185	T71	Tiantan	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	47	F	Asian	1	109.9666667	1	77.43333333
+PS186	T72	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	29	F	Asian	1	107.9666667	1	90.7
+PS187	T73	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	43	M	Asian	1	17.3	1	9.7
+PS188	T74	Tiantan	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	44	F	Asian	1	103.5666667	1	88.93333333
+PS189	T75	Tiantan	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	Asian	1	102.4666667	1	29.9
+PS190	T76	Tiantan	Glioblastoma, IDH-mutant	IV	IV	No	46	M	Asian	1	27.06666667	1	NA
+PS191	J02	UCSF	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	32.2	F	non-Asian	0	5	0	74
+PS192	J04	UCSF	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	23	M	non-Asian	1	61	1	15
+PS193	J06	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	No	24.7	M	non-Asian	1	87	1	32
+PS194	J07	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	No	38.8	M	non-Asian	0	148	1	105
+PS195	J11	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	No	41	F	non-Asian	1	186	1	132
+PS196	J12	UCSF	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	36.4	M	non-Asian	0	82	0	17
+PS197	J13	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	No	25.8	M	non-Asian	0	106	1	21
+PS198	J15	UCSF	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	47.9	F	non-Asian	0	143	0	119
+PS199	J16	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	No	35.4	F	non-Asian	0	38	1	5
+PS200	J26	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	37.3	F	Asian	0	47	0	15
+PS201	J27	UCSF	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	57	M	Asian	0	54	0	12
+PS202	J28	UCSF	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	37.1	M	Asian	0	137	0	85
+PS203	J29	UCSF	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	56.8	M	Asian	0	109	1	57
+PS204	JPNLGG1	Suzuki	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	35.3	M	Asian	0	NA	NA	39.9
+PS205	JPNLGG3	Suzuki	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	38.8	M	Asian	0	NA	NA	33.5
+PS206	JPNLGG4	Suzuki	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	57.2	M	Asian	0	NA	NA	26.1
+PS208	JPNLGG7	Suzuki	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	49.2	M	Asian	0	NA	NA	61.8
+PS209	JPNLGG202	Suzuki	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	38	M	Asian	0	NA	NA	48.2
+PS210	JPNLGG239	Suzuki	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	42	M	Asian	0	NA	NA	24.3
+PS211	Y1	Yale	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	46.7	M	non-Asian	0	NA	NA	32
+PS212	Y2	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	NA	F	non-Asian	NA	NA	NA	NA
+PS213	Y3	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	NA	M	non-Asian	NA	NA	NA	NA
+PS214	Y4	Yale	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	43.1	M	non-Asian	0	NA	NA	51
+PS215	Y5	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	28.2	M	non-Asian	1	NA	NA	34
+PS216	Y6	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	50.1	M	non-Asian	0	NA	NA	39
+PS217	Y7	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	58.0	M	non-Asian	0	NA	NA	114
+PS218	Y8	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	35.9	M	non-Asian	0	NA	NA	32
+PS219	Y9	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	35.0	F	non-Asian	0	NA	NA	18
+PS220	Y10	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	50.3	F	non-Asian	0	NA	NA	66
+PS221	Y11	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	45.7	M	non-Asian	0	NA	NA	94
+PS222	Y12	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	39.0	M	non-Asian	0	NA	NA	44
+PS223	Y13	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	46.6	M	non-Asian	0	NA	NA	45
+PS224	Y14	Yale	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	25.4	M	non-Asian	0	NA	NA	51
+PS225	Y15	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	44.1	M	non-Asian	0	NA	NA	71
+PS226	Y16	Yale	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	39.8	F	non-Asian	0	NA	NA	38
+PS227	Y17	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	32.3	M	non-Asian	0	NA	NA	80
+PS228	Y18	Yale	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	24.8	M	non-Asian	0	NA	NA	13
+PS229	Y19	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	61.1	F	non-Asian	1	NA	NA	52
+PS230	Y20	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	49.8	M	non-Asian	0	NA	NA	24
+PS231	Y21	Yale	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	24.7	M	non-Asian	0	NA	NA	29
+PS232	Y22	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	37.1	M	non-Asian	0	NA	NA	50
+PS233	Y23	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	41.5	F	non-Asian	0	NA	NA	113
+PS234	Y24	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	60.0	M	non-Asian	1	NA	NA	14
+PS235	Y25	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	44.0	F	non-Asian	1	NA	NA	58
+PS236	Y26	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	31.1	M	non-Asian	0	NA	NA	66
+PS237	Y27	Yale	Diffuse Astrocytoma, IDH-mutant	II	II	Yes	57.8	M	non-Asian	0	NA	NA	53
+PS238	Y28	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	29.2	F	non-Asian	0	NA	NA	43
+PS239	Y29	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	57.6	F	non-Asian	0	NA	NA	99
+PS240	Y30	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	25.7	M	non-Asian	0	NA	NA	18
+PS241	Y31	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	58.1	M	non-Asian	0	NA	NA	121
+PS242	Y32	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	55.6	M	non-Asian	0	NA	NA	69
+PS243	Y33	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	53.1	F	non-Asian	0	NA	NA	26
+PS244	Y34	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	36.1	M	non-Asian	NA	NA	NA	24
+PS245	Y35	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	62.8	F	non-Asian	0	NA	NA	72
+PS246	Y36	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	46.6	F	non-Asian	0	NA	NA	28
+PS247	Y37	Yale	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	33.5	F	non-Asian	0	NA	NA	7
+PS248	Y38	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	52.4	F	non-Asian	NA	NA	NA	53
+PS249	Y39	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	40.4	M	non-Asian	0	NA	NA	31
+PS250	Y40	Yale	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	43.1	F	non-Asian	1	NA	NA	15
+PS251	Y41	Yale	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	32.7	M	non-Asian	0	NA	NA	21
+PS252	TCGA-DH-A669	TCGA-LGG	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	70	M	non-Asian	NA	30.2	1	8.5
+PS253	TCGA-DU-5870	TCGA-LGG	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	34	F	non-Asian	0	182.2	0	142.8
+PS254	TCGA-DU-5872	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	II	No	43	F	non-Asian	1	17.5	0	8.7
+PS255	TCGA-DU-6397	TCGA-LGG	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	IV	No	45	M	non-Asian	0	46.0	1	27.5
+PS256	TCGA-DU-6404	TCGA-LGG	Anaplastic Astrocytoma, IDH-wildtype	III	II	No	24	F	non-Asian	1	133.6	1	37.9
+PS257	TCGA-DU-6407	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	35	F	non-Asian	1	94.5	1	78.8
+PS258	TCGA-DU-7304	TCGA-LGG	Anaplastic Astrocytoma, IDH-mutant	III	III	No	43	M	non-Asian	1	23.3	1	10.2
+PS259	TCGA-FG-5963	TCGA-LGG	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	23	M	non-Asian	1	25.5	1	16.3
+PS260	TCGA-FG-5965	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	39	F	non-Asian	1	36.8	1	34.0
+PS261	TCGA-FG-A4MT	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	27	F	non-Asian	NA	38.2	0	16.4
+PS262	TCGA-TM-A7CF	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	41	F	non-Asian	NA	65.3	0	30.4
+PS263	TCGA-TQ-A7RK	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	II	No	29	M	non-Asian	NA	44.1	0	28.2
+PS264	TCGA-TQ-A7RV	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	II	No	27	M	non-Asian	NA	61.4	0	17.4
+PS265	TCGA-TQ-A8XE	TCGA-LGG	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	42	F	non-Asian	NA	31.3	1	15.0
+PS266	GM_P1	SMC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	56	F	Asian	1	58.66666667	1	NA
+PS267	GM_P2	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	59	F	Asian	1	33.06666667	1	NA
+PS268	GM_P3	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	43	M	Asian	1	16.13333333	1	NA
+PS269	GM_P4	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	Asian	1	68.4	0	NA
+PS270	GM_P5	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	43	M	Asian	1	18.03333333	1	NA
+PS271	GM_P6(3r,use2)	SMC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	53	F	Asian	1	218.6666667	1	NA
+PS272	GM_P7(2i2r,use4,3)	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	60	M	Asian	1	10.6	0	NA
+PS273	GM_P8	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	64	M	Asian	1	10.4	1	NA
+PS274	GM_P9	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	Asian	1	28.16666667	1	NA
+PS275	GM_P10	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	Asian	1	14.73333333	0	NA
+PS276	GM_P11	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	41	F	Asian	1	12.66666667	1	NA
+PS277	GM_P12(2i,use1)	SMC	Glioblastoma, IDH-wildtype	IV	IV	No	61	F	Asian	1	14.43333333	0	NA
+PS278	3	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	41	M	NA	1	25.4	0	5.3
+PS279	13(3samples, use 1,3)	NWU	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	IV	IV	No	55	F	NA	1	55.6	1	15.47
+PS280	20(3s, 2 low puri, use 1,3)	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	63	M	NA	1	34	1	18.47
+PS281	21(3s, use 1,2)	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	59	M	NA	1	10.3	1	1.43
+PS282	24(3s, use 1,2)	NWU	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	IV	IV	No	33	F	NA	1	36.6	0	23.57
+PS284	46	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	64	F	NA	1	45.4	0	7.03
+PS285	53(4s, use 1,4)	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	70	M	NA	1	31.3	1	23.53
+PS286	55(3s,use 1,2)	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	NA	1	23.1	0	3.73
+PS287	56	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	54	F	NA	1	19.6	1	9.8
+PS288	69	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	66	F	NA	1	15.3	1	7.77
+PS289	71	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	70	M	NA	1	15.9	1	5.83
+PS291	101(3s, use 1,2)	NWU	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	IV	IV	No	32	M	NA	1	45.6	1	43.2
+PS293	103	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	64	M	NA	1	14.4	0	9.93
+PS294	104	NWU	Glioblastoma, IDH-wildtype	IV	IV	No	42	F	NA	1	46.5	0	35.27
+PS295	glioma_mskcc_2019_1	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	45.08333333	M	NA	1	83.7	1	61
+PS296	glioma_mskcc_2019_2	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	63.44166667	F	NA	1	39.4	0	29.3
+PS297	glioma_mskcc_2019_6	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	44.19166667	F	NA	0	32.1	1	14.3
+PS298	glioma_mskcc_2019_8	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	55.55	M	NA	1	25.3	1	18.6
+PS299	glioma_mskcc_2019_12	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	64.6275	F	NA	1	21.1	1	7.53
+PS300	glioma_mskcc_2019_14	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	64.65166667	M	NA	1	22.7	1	7.82
+PS301	glioma_mskcc_2019_27	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	47.455	M	NA	1	10.8	0	5.46
+PS302	glioma_mskcc_2019_35	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	74.4275	M	NA	1	11	1	5.13
+PS303	glioma_mskcc_2019_37	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	68.61916667	M	NA	1	13.5	1	7.43
+PS304	glioma_mskcc_2019_38	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	65.655	F	NA	1	20.8	1	7.86
+PS305	glioma_mskcc_2019_66	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	69.58916667	M	NA	1	7.53	0	7.07
+PS306	glioma_mskcc_2019_73	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	54.7675	M	NA	1	12.4	0	9.21
+PS307	glioma_mskcc_2019_83	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	77.50416667	M	NA	1	24.8	1	6.05
+PS308	glioma_mskcc_2019_91	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	52.475	M	NA	1	45.4	1	29.7
+PS309	glioma_mskcc_2019_99	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	29.04166667	M	NA	1	22.8	1	12.5
+PS310	glioma_mskcc_2019_103	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	48.41083333	M	NA	1	13.4	1	4.93
+PS311	glioma_mskcc_2019_107	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	42.37833333	F	NA	1	8.05	1	4.54
+PS312	glioma_mskcc_2019_130	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	38.5525	M	NA	1	28.3	1	6.63
+PS313	glioma_mskcc_2019_134	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	47.63333333	M	NA	1	13.1	1	7.6
+PS314	glioma_mskcc_2019_139	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	63.33333333	M	NA	1	51.3	0	40
+PS315	glioma_mskcc_2019_150	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	49.45833333	M	NA	1	61.2	0	53.5
+PS316	glioma_mskcc_2019_151	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	54.575	F	NA	1	25.4	0	6.9
+PS317	glioma_mskcc_2019_153	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	68.55	M	NA	1	30.4	0	18.6
+PS318	glioma_mskcc_2019_155	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	49.67083333	M	NA	1	16.7	1	8.05
+PS319	glioma_mskcc_2019_158	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	57.6	M	NA	1	28.1	1	19.2
+PS320	glioma_mskcc_2019_160	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	51.75833333	F	NA	1	42.5	0	33.1
+PS321	glioma_mskcc_2019_231	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	28.68333333	M	NA	1	34	0	20.2
+PS322	glioma_mskcc_2019_235	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	45.35583333	M	NA	1	23.5	1	4.27
+PS323	glioma_mskcc_2019_236	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	61.65166667	M	NA	1	16.4	1	7.82
+PS324	glioma_mskcc_2019_239	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	49.08333333	M	NA	1	58.6	0	49
+PS325	glioma_mskcc_2019_256	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	35.59166667	M	NA	1	37.3	0	31.1
+PS326	glioma_mskcc_2019_283	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	49.715	M	NA	1	17.1	1	8.58
+PS327	glioma_mskcc_2019_289	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	65.01833333	F	NA	1	27.4	1	24.22
+PS328	glioma_mskcc_2019_310	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	42.78666667	M	NA	1	16.3	1	9.44
+PS329	glioma_mskcc_2019_330	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	56.125	M	NA	1	76.2	1	13.5
+PS330	glioma_mskcc_2019_337	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	41.33833333	F	NA	1	21.7	1	16.06
+PS331	glioma_mskcc_2019_341	MSKCC	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	75.375	F	NA	1	58.5	1	40.5
+PS332	glioma_mskcc_2019_345	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	46.63333333	F	NA	1	43.5	1	7.6
+PS333	glioma_mskcc_2019_353	MSKCC	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	49.475	M	NA	1	27.8	1	17.7
+PS334	glioma_mskcc_2019_388	MSKCC	Anaplastic Astrocytoma, IDH-wildtype	III	III	No	57.3	M	NA	1	21.9	1	15.6
+PS335	glioma_mskcc_2019_394	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	52.74166667	M	NA	1	64.1	1	20.9
+PS336	glioma_mskcc_2019_401	MSKCC	Diffuse Astrocytoma, IDH-wildtype	II	III	Yes	22.46666667	F	NA	1	24.2	1	17.6
+PS337	glioma_mskcc_2019_420	MSKCC	Glioblastoma, IDH-mutant	IV	IV	No	29.50666667	M	NA	1	25.1	0	6.08
+PS338	glioma_mskcc_2019_425	MSKCC	Glioblastoma, IDH-mutant	IV	IV	No	24.085	M	NA	0	13.2	0	1.02
+PS339	glioma_mskcc_2019_432	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	44.10833333	M	NA	1	90.8	1	85.3
+PS340	glioma_mskcc_2019_438	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	32.21666667	F	NA	1	77.2	1	50.6
+PS341	glioma_mskcc_2019_439	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	47.13333333	F	NA	1	84.2	1	73.6
+PS342	glioma_mskcc_2019_442	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	45.59416667	F	NA	1	27.5	0	7.13
+PS343	glioma_mskcc_2019_446	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	34.36666667	F	NA	1	65	0	64.4
+PS344	glioma_mskcc_2019_448	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	25.25	M	NA	1	34.6	0	27
+PS345	glioma_mskcc_2019_482	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	40.79166667	M	NA	1	49	1	33.5
+PS346	glioma_mskcc_2019_490	MSKCC	Diffuse Astrocytoma, IDH-mutant	II	II	No	30.46666667	F	NA	1	99.1	1	41.6
+PS347	glioma_mskcc_2019_543	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	34.69166667	F	NA	1	78.5	1	8.3
+PS348	glioma_mskcc_2019_545	MSKCC	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	27.26666667	M	NA	1	120	1	27.2
+PS349	glioma_mskcc_2019_548	MSKCC	Anaplastic Astrocytoma, IDH-mutant	III	III	No	27.74166667	M	NA	1	85.6	0	44.9
+PS350	glioma_mskcc_2019_585	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	34.525	M	NA	1	80.8	0	42.3
+PS351	glioma_mskcc_2019_589	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	35.08333333	M	NA	1	129	0	25
+PS352	glioma_mskcc_2019_590	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	42.75	M	NA	1	192	0	21
+PS353	glioma_mskcc_2019_592	MSKCC	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	47.5	F	NA	1	135	1	126
+PS354	glioma_mskcc_2019_635	MSKCC	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	48.44166667	F	NA	1	130	0	101.3
+PS355	glioma_mskcc_2019_636	MSKCC	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	32.58333333	M	NA	1	173	0	19
+PS356	glioma_mskcc_2019_650	MSKCC	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	59.68333333	M	NA	1	52.3	0	44.2
+PS357	glioma_mskcc_2019_654	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	41.475	M	NA	1	58.6	1	17.7
+PS358	glioma_mskcc_2019_658	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	II	No	57.83333333	F	NA	1	228	0	82
+PS359	glioma_mskcc_2019_660	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	48	F	NA	1	132	1	12
+PS360	glioma_mskcc_2019_662	MSKCC	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	29.91666667	M	NA	1	164	0	11
+PS365	glioma_mskcc_2019_825	MSKCC	Glioblastoma, IDH-wildtype	IV	IV	No	50.01666667	M	NA	1	38.3	0	36.2
+PS366	GLSS-19-0266	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	71	M	NA	1	35	1	18
+PS367	GLSS-19-0267	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	61	M	NA	1	14	1	10
+PS368	GLSS-19-0268	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	64	M	NA	1	12	1	10
+PS369	GLSS-19-0269	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	57	M	NA	1	16	1	10
+PS370	GLSS-19-0270	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	61	F	NA	0	5	1	1
+PS371	GLSS-19-0271	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	56	M	NA	1	14	1	12
+PS372	GLSS-19-0272	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	NA	1	22	1	18
+PS373	GLSS-19-0273	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	48	M	NA	1	29	1	10
+PS374	GLSS-19-0274	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	72	M	NA	NA	13	1	9
+PS375	GLSS-19-0277	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	71	M	NA	0	24	1	1
+PS376	GLSS-19-0278	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	NA	0	19	1	10
+PS377	GLSS-19-0279	GLSS	Glioblastoma, IDH-mutant	IV	IV	No	34	M	NA	1	11	1	9
+PS378	GLSS-19-0280	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	58	F	NA	NA	22	1	5
+PS379	GLSS-AT-00P1	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	NA	1	37	1	28
+PS380	GLSS-AT-00P2	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	75	F	NA	1	14	1	11
+PS381	GLSS-AT-00P3	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	50	M	NA	0	25	1	16
+PS382	GLSS-AT-00P4	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	65	F	NA	1	14	1	8
+PS383	GLSS-AT-00P5	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	54	M	NA	1	23	1	14
+PS384	GLSS-AT-00P6	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	58	F	NA	1	14	1	10
+PS385	GLSS-AT-00P7	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	NA	1	21	1	10
+PS386	GLSS-AT-GP01	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	58	M	NA	0	13	1	4
+PS387	GLSS-DF-0002	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	69	M	NA	1	11	1	6
+PS388	GLSS-DF-0003	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	NA	1	9	1	8
+PS389	GLSS-DF-0004	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	51	M	NA	0	5	1	3
+PS390	GLSS-DF-0006	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	36	M	NA	1	16	1	4
+PS391	GLSS-DF-0007	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	68	F	NA	1	26	1	9
+PS392	GLSS-DF-0010	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	68	F	NA	0	6	1	2
+PS393	GLSS-DF-0012	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	50	F	NA	0	11	1	4
+PS394	GLSS-DF-0013	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	30	M	NA	1	26	1	19
+PS395	GLSS-DF-0014	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	62	M	NA	1	14	1	7
+PS396	GLSS-DK-0001	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS397	GLSS-DK-0002	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS398	GLSS-DK-0003	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS399	GLSS-DK-0004	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS400	GLSS-DK-0005	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS401	GLSS-DK-0006	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS402	GLSS-DK-0007	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS403	GLSS-DK-0008	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS404	GLSS-DK-0009	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS405	GLSS-DK-0010	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS406	GLSS-DK-0011	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS407	GLSS-DK-0012	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS408	GLSS-DK-0013	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS409	GLSS-DK-0014	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS410	GLSS-DK-0015	GLSS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+PS411	GLSS-HF-3016	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	45	M	NA	1	22	1	11
+PS412	GLSS-HK-0001	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	62	M	NA	1	25	1	10
+PS413	GLSS-HK-0002	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	37	F	NA	1	37	1	26
+PS414	GLSS-HK-0003	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	67	F	NA	1	25	1	13
+PS415	GLSS-HK-0004	GLSS	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	24	M	NA	1	40	1	37
+PS416	GLSS-HK-0005	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	46	F	NA	NA	64	1	25
+PS417	GLSS-JX-0006	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	33	F	NA	1	88	1	68
+PS418	GLSS-LU-00A1	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	31	F	NA	1	60	1	20
+PS419	GLSS-LU-00B9	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	40	M	NA	1	NA	1	2
+PS420	GLSS-LU-00C1	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	36	F	NA	1	43	1	22
+PS421	GLSS-LU-00C2	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	63	F	NA	1	49	1	45
+PS422	GLSS-LU-00C4	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	NA	1	32	1	23
+PS423	GLSS-LU-00C7	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	55	M	NA	1	24	1	17
+PS424	GLSS-LU-0B10	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	67	M	NA	1	29	1	17
+PS425	GLSS-LU-0B12	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	47	M	NA	1	19	1	16
+PS426	GLSS-LU-0B13	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	45	F	NA	1	18	1	14
+PS427	GLSS-MD-0001	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	45	F	NA	NA	257	1	239
+PS428	GLSS-MD-0003	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	46	M	NA	1	110	0	48
+PS429	GLSS-MD-0004	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	53	F	NA	NA	62	1	47
+PS430	GLSS-MD-0005	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	40	F	NA	NA	203	0	52
+PS431	GLSS-MD-0006	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	52	F	NA	1	93	1	56
+PS432	GLSS-MD-0007	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	33	F	NA	NA	157	1	111
+PS433	GLSS-MD-0008	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	III	No	20	M	NA	NA	183	0	129
+PS434	GLSS-MD-0009	GLSS	Glioblastoma, IDH-mutant	IV	NA	No	26	M	NA	1	80	1	65
+PS435	GLSS-MD-0010	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	41	M	NA	NA	75	0	54
+PS436	GLSS-MD-0012	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	33	M	NA	NA	98	1	59
+PS437	GLSS-MD-0014	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	NA	1	74	0	56
+PS438	GLSS-MD-0017	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	55	M	NA	1	38	1	3
+PS439	GLSS-MD-0018	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	37	F	NA	0	91	0	6
+PS440	GLSS-MD-0020	GLSS	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	46	M	NA	1	36	1	24
+PS441	GLSS-MD-0021	GLSS	Glioblastoma, IDH-mutant	IV	IV	No	25	M	NA	1	119	0	99
+PS442	GLSS-MD-0022	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	68	M	NA	1	10	1	4
+PS443	GLSS-MD-0023	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	65	M	NA	1	12	0	8
+PS444	GLSS-MD-0025	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	60	M	NA	1	19	1	9
+PS445	GLSS-MD-0026	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	77	M	NA	1	44	1	34
+PS446	GLSS-MD-0027	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	30	M	NA	1	80	1	76
+PS447	GLSS-MD-0030	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	21	M	NA	1	138	1	114
+PS448	GLSS-MD-0031	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	NA	1	6	0	4
+PS449	GLSS-MD-0032	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	40	M	NA	1	27	1	19
+PS450	GLSS-MD-0035	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	44	M	NA	1	22	1	20
+PS451	GLSS-MD-0036	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	53	M	NA	NA	21	1	14
+PS452	GLSS-MD-0038	GLSS	Anaplastic Astrocytoma, IDH-wildtype	III	III	No	41	M	NA	1	53	0	7
+PS453	GLSS-MD-0041	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	45	F	NA	NA	122	0	79
+PS454	GLSS-MD-0042	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	72	M	NA	1	11	1	8
+PS455	GLSS-MD-0043	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	31	F	NA	1	135	1	115
+PS456	GLSS-MD-0044	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	56	M	NA	NA	124	0	51
+PS457	GLSS-MD-0045	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	52	M	NA	1	30	0	22
+PS458	GLSS-MD-0046	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	59	M	NA	1	36	1	21
+PS459	GLSS-MD-0047	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	33	F	NA	1	175	0	172
+PS460	GLSS-MD-0048	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	48	M	NA	1	133	0	117
+PS461	GLSS-MD-0049	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	51	M	NA	NA	97	0	61
+PS462	GLSS-MD-0082	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	24	M	NA	1	83	1	74
+PS463	GLSS-MD-0086	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	34	M	NA	0	54	1	41
+PS464	GLSS-MD-0088	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	30	M	NA	0	109	0	81
+PS465	GLSS-MD-0089	GLSS	Anaplastic Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	III	III	No	38	M	NA	1	163	0	72
+PS466	GLSS-MD-0090	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	33	M	NA	1	122	0	83
+PS467	GLSS-MD-0091	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	48	F	NA	0	84	1	62
+PS468	GLSS-MD-0092	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	29	F	NA	0	101	0	41
+PS469	GLSS-MD-0093	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	30	M	NA	1	82	1	56
+PS470	GLSS-MD-0094	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	32	F	NA	0	72	0	66
+PS471	GLSS-MD-0097	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	38	M	NA	0	43	1	17
+PS472	GLSS-MD-0112	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	42	F	NA	1	114	0	83
+PS473	GLSS-MD-0113	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	41	F	NA	NA	161	0	66
+PS474	GLSS-MD-LP01	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	30	M	NA	0	68	1	56
+PS475	GLSS-MD-LP02	GLSS	Anaplastic Astrocytoma, IDH-mutant	III	IV	Yes	28	F	NA	0	41	1	26
+PS476	GLSS-MD-LP04	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	45	F	NA	1	39	0	19
+PS477	GLSS-MD-LP10	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	49	M	NA	0	10	0	4
+PS478	GLSS-MG-0001	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	55	F	NA	1	51	1	51
+PS479	GLSS-MG-0002	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	56	M	NA	1	15	1	15
+PS480	GLSS-MG-0003	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	69	M	NA	1	13	1	13
+PS481	GLSS-MG-0005	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	68	M	NA	1	21	1	21
+PS482	GLSS-MG-0006	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	63	M	NA	1	18	1	18
+PS483	GLSS-MG-0007	GLSS	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	45	M	NA	1	24	1	24
+PS484	GLSS-MG-0009	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	70	F	NA	1	14	1	14
+PS485	GLSS-MG-0010	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	68	M	NA	1	8	1	8
+PS486	GLSS-MG-0011	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	61	M	NA	1	11	1	11
+PS487	GLSS-MG-0015	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	62	F	NA	1	24	1	24
+PS488	GLSS-NS-0001	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	37	F	NA	NA	17	0	13
+PS489	GLSS-SF-0020	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	27	M	NA	0	148	0	108
+PS490	GLSS-SF-0032	GLSS	Anaplastic Astrocytoma, IDH-wildtype	III	IV	Yes	46	M	NA	1	15	0	12
+PS491	GLSS-SF-0039	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	28	M	NA	1	101	0	40
+PS492	GLSS-SF-0058	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	47	F	NA	0	59	1	35
+PS493	GLSS-SF-0060	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	21	M	NA	0	61	0	43
+PS494	GLSS-SF-0065	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	38	M	NA	1	117	0	60
+PS495	GLSS-SF-0069	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	IV	Yes	34	M	NA	0	154	0	99
+PS496	GLSS-SF-0131	GLSS	Glioblastoma, IDH-wildtype	IV	IV	No	38	M	NA	1	14	1	4
+PS497	GLSS-SF-0157	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	27	F	NA	1	51	1	26
+PS498	GLSS-SF-0159	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	23	M	NA	0	83	0	37
+PS499	GLSS-SF-0161	GLSS	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	35	M	NA	1	114	0	111
+PS500	GLSS-SF-0163	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	28	M	NA	1	140	0	89
+PS501	GLSS-SF-0170	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	Yes	62	F	NA	1	55	1	31
+PS502	GLSS-SF-0334	GLSS	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	33	M	NA	1	188	0	63
+PS503	GLSS-SF-0338	GLSS	Diffuse Astrocytoma, IDH-mutant	II	III	Yes	40	M	NA	1	34	0	34
+PS504	GLSS-SF-0339	GLSS	Diffuse Astrocytoma, IDH-mutant	II	II	No	29	M	NA	0	68	0	18
+PSX01	CXF	CGGA	Glioblastoma, IDH-wildtype	IV	IV	No	46	M	Asian	1	11	0	NA
+PSX02	FDL	CGGA	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	32	M	Asian	1	33	0	NA
+PSX03	JYX	CGGA	Diffuse Astrocytoma, IDH-mutant	III	III	No	22	F	Asian	1	19.0	1	11.7
+PSX04	LY	CGGA	Diffuse Astrocytoma, IDH-wildtype	III	IV	Yes	31	F	Asian	1	24.3	0	NA
+PSX05	LCL	CGGA	Diffuse Astrocytoma, IDH-wildtype	II	IV	Yes	55	M	Asian	1	41.1	0	NA
+PSX06	MFY	CGGA	Glioblastoma, IDH-mutant	IV	IV	No	36	M	Asian	1	13.0	1	NA
+PSX07	SXB	CGGA	Glioblastoma, IDH-mutant	IV	IV	No	26	M	Asian	1	NA	NA	19.2
+PSX08	SYL	CGGA	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	26	F	Asian	1	38.1	0	29.3
+PSX09	WGF	CGGA	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	II	No	48	M	Asian	0	59.3	0	88.5
+PSX10	WYQ	CGGA	Diffuse Astrocytoma, IDH-mutant	II	IV	Yes	47	M	Asian	0	NA	NA	NA
+PSX11	YHT	CGGA	Diffuse Astrocytoma, IDH-wildtype	II	IV	Yes	43	M	Asian	1	40.9	0	NA
+PSX12	YSH	CGGA	Glioblastoma, IDH-mutant	IV	IV	No	48	F	Asian	1	NA	NA	NA
+PSX13	ZJ	CGGA	Oligodendroglioma, IDH-mutant and 1p/19q-codeleted	II	III	No	40	F	Asian	0	21.1	0	NA
+PSX14	ZW	CGGA	Glioblastoma, IDH-mutant	IV	IV	No	44	M	Asian	1	NA	NA	NA
+PSX15	WML	CUHK	Glioblastoma, IDH-mutant	IV	IV	No	33	F	Asian	1	48.7	1	26.6
+PSX16	TKK	CUHK	Glioblastoma, IDH-wildtype	IV	IV	No	54	M	Asian	NA	16.2	1	8.8
+PSX17	CWC	CUHK	Glioblastoma, IDH-wildtype	IV	IV	No	57	M	Asian	NA	42.7	0	8.4
+PSX18	LTF	CUHK	Glioblastoma, IDH-wildtype	IV	IV	No	62	M	Asian	NA	25.1	1	17.6
+PSX19	LTM	CUHK	Glioblastoma, IDH-wildtype	IV	IV	No	59	M	Asian	NA	16.6	1	9.9
+PSX20	WYW	CUHK	Glioblastoma, IDH-wildtype	IV	IV	No	57	M	Asian	NA	10.3	1	4.0
