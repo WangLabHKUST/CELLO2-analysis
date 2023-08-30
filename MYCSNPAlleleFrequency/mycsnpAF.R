@@ -12,9 +12,9 @@ library(ggplot2)
 
 
 ggplot(mycsnp, aes(x = paste(Population,Study), y = 100*AF2))+
-  geom_bar(stat = 'identity', aes(fill = Population !='East Asian'))+
+  geom_bar(stat = 'identity', aes(fill = Population =='East Asian'))+
   scale_y_continuous(expand = c(0,0))+
-  scale_fill_brewer(palette = 7, type = 'qual')+
+  scale_fill_brewer(palette = 7, type = 'qual',direction = -1)+
   theme_classic()+theme(axis.text.x = element_text(angle = 45, hjust = 1))+
-  labs(y= 'Risk allele frequency (%)', x = '', fill =  'Population')
-#ggsave(file = 'mycsnpAF.pdf', width = 3, height = 3.9)
+  labs(y= 'Risk allele frequency (%)', x = '', fill =  'East Asian')
+ggsave(file = 'Fig1E_mycsnpAF.pdf', width = 3, height = 3.9)
